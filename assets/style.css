@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 20px;
+    background-color: white;
+}
+
+.logo {
+    font-family: sans-serif;
+    display: inline-block;
+    width: 80px;
+    font-size: 40px;
+    font-weight: 700;
+    vertical-align: middle;
+    margin-left: 20px;
+
+}
