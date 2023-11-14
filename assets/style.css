@@ -4,18 +4,44 @@
     box-sizing: border-box;
 }
 
+
 header {
     padding: 20px;
     background-color: white;
 }
 
 .logo {
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: inline-block;
     width: 80px;
     font-size: 40px;
     font-weight: 700;
     vertical-align: middle;
     margin-left: 20px;
+}
 
+#container {
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.bottone1 {
+    background-color: #47ADF1;
+    color: white;
+    border-radius: 10%;
+    border: 0;
+    margin-top: 40px;
+    padding: 10px;
+    }
+
+.bottone2 {
+    background-color: white;
+    border-radius: 10%;
+    border: 2px solid;
+    margin-top: 40px;
+    padding: 10px;
+    color: #D3D7DB
 }
